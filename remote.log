@@ -1,0 +1,1 @@
+4f728346-8d33-446d-b167-c4b088a4d073 autoenable=true bucket=f632e944-0231-4a0b-8be2-bf4f0123bfa0 chunk=100mb datacenter=US encryption=none host=coscine-s3-01.data.fds.uni-due.de name=coscine-rds-s3 port=443 signature=v4 storageclass=STANDARD type=S3 timestamp=1700240233.150664s
